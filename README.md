@@ -25,7 +25,7 @@ For docs, please check the Laravel documentation: https://laravel.com/docs/5.5/c
 Via Composer
 
 ``` bash
-$ composer require pragmarx/ia-collection
+$ composer require priyank989/ia-collection
 ```
 
 ## Usage
